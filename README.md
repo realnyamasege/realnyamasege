@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Nike store<br>👯 I’m looking to collaborate on frontend and backend projects<br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning JavaScript and React.js<br>💬 Ask me about Python<br>⚡ Fun fact The First Computer “Bug” Was a Real Bug.<br>
+ Fun fact: The First Computer “Bug” Was a Real Bug.<br>
 
 
 # 💻 Tech Stack:
