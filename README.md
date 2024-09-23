@@ -13,8 +13,7 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=realnyamasege&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=realnyamasege&icon=2&color=6)](https://visitcount.itsvg.in)
