@@ -1,4 +1,4 @@
- Fun fact - The First Computer “Bug” Was a Real Bug.<br>
+ Fun fact -> The First Computer “Bug” Was a Real Bug.<br>
 
 
 # 💻 Tech Stack:
